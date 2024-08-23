@@ -1,17 +1,18 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Easy Roasted-Garlic Foccacia Recipe",
+     "author": "J. Kenji Lopez-Alt",
+     "description": "Roasted cloves and garlic butter make for a one-two punch in this simple riff on garlic bread.",
+     "website": "https://www.seriouseats.com/easy-roasted-garlic-focaccia-no-knead-bread-recipe",
+     "recipeImage": "https://www.seriouseats.com/thmb/CatC4bLoDAlLBx3HNA463-tTgNU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/easy-roasted-garlic-focaccia-no-knead-bread-recipe-14-b8a312d8cb5c4c62b67ec43a256ab05f.jpg",
+     "authorImage": "https://www.seriouseats.com/thmb/u6iiJDD8wXT59ZFhNwe6IlQFk4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kenji-lopez-alt-9e7ff3ba54e24328a853d774a05fd4b8.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
+       "garlic",
+       "olive oil",
        "flour",
-       "heavy cream",
-       "milk"
+       "salt",
+       "yeast",
+       "water"
      ]
    }
  ]
